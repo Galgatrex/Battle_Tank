@@ -1,0 +1,21 @@
+###############################################################
+# Unreal Generated Files - Should be ignored for all projects #
+###############################################################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+
+##############################################################################
+# Ignoring just for Building Escape project.. not all projects in the future #
+##############################################################################
+BuildingEscape/Content/StarterContent/
+
+#################################
+# Visual Studio generated files #
+#################################
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
